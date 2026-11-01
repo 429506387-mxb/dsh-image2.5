@@ -1,0 +1,6 @@
+# dsh-image25 — Image 2.5 image generation for DeepSeek Harness.
+# One row: the host plugin (tool, settings, HTTP endpoints) and the web
+# client bundle (settings section + composer button) are shipped together.
+- insert:
+    - id: image25
+      name: dsh-image25
